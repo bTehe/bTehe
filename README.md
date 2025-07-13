@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Data Analysis tasks, by using Python with Machine Learning stack. In addition, I develop softwares, by using Python and C# with GUI and backend<br>👯 I’m looking to collaborate on Data Science and AI projects with using cloud technologies<br>🤝 I’ve already helped to reduce expenses in production and ensure quality control using my analytical and statistical skills
 
 
 ## 🌐 Socials:
